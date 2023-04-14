@@ -1,0 +1,669 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+@media only screen and (min-width: 1201px) and (max-width: 1700px)
+{
+
+     .main
+     {
+        width:100%;
+     }
+     
+     .img1
+     {
+       padding-left:5%;
+       padding-right: 5%;
+      object-fit: contain;
+     }
+     .block1
+     { width:99%;
+        display: flex;
+     }
+
+     .block11
+     {
+        width:15%;
+        
+        background-color:rgba(6, 205, 255, 0.548);
+        border-style: double;
+     }
+
+     .block12
+     {
+        width:85%;
+    
+        background-color:rgba(6, 205, 255, 0.548);
+        border-bottom-style: double;
+        border-top-style: double;
+        border-right-style: double;
+        border-left-style: none;
+     }
+
+     .namestyling
+     {
+        text-align: left;
+        padding-top: 50px;
+        padding-left: 30px;
+        font-size: 50px;
+        
+        text-decoration: underline;
+        font-family: "Century Gothic";
+     }
+     .namestyling1
+     {
+        text-align: left;
+        padding-top: 20px;
+        padding-left: 70px;
+        font-size: 40px;
+        
+        text-decoration: underline;
+        font-family: "Century Gothic";
+     }
+
+     .block2
+      {
+         width: 88.5%;
+         border-left-style: double;
+         border-right-style: double;
+         border-bottom-style: double;
+         padding-left:5%;
+         padding-right: 5%;
+       background-color: rgb(16, 218, 218);
+      }
+      .para1
+      {
+       padding-top:30px ;
+       font-size: 50px;
+       font-weight: bold;
+       font-family: "Century Gothic";
+      }
+
+      .para2
+      {
+         padding-top: 7px; 
+         text-align: justify;
+         font-family: "Century Gothic";
+      }
+
+      .para3
+      {
+         padding-top: 5px;
+         text-align: justify;
+         font-family: "Century Gothic";
+         font-size: 20px;
+         font-weight: bold;
+      }
+
+      .para4
+      {
+         padding-top: 5px;
+         text-align: justify;
+         font-family: "Century Gothic";
+         
+         
+      }
+
+      .liststyling
+      {
+         list-style: none;  text-align: justify;
+         font-family:"Century Gothic";
+      
+         
+      }
+
+      
+
+}
+
+@media only screen and (min-width: 1048px) and (max-width: 1200px)
+{
+
+    .main
+     {
+        width:100%;
+     }
+     
+     .img1
+     {
+       padding-left:5%;
+       padding-right: 5%;
+      object-fit: contain;
+     }
+     .block1
+     {
+        width: 99%;
+        display: flex;
+     }
+
+     .block11
+     {
+        width:15%;
+        
+        background-color:rgba(6, 205, 255, 0.548);
+        border-style: double;
+     }
+
+     .block12
+     {
+        width:85%;
+    
+        background-color:rgba(6, 205, 255, 0.548);
+        border-bottom-style: double;
+        border-top-style: double;
+        border-right-style: double;
+        border-left-style: none;
+     }
+
+     .namestyling
+     {
+        text-align: left;
+        padding-top: 50px;
+        padding-left: 30px;
+        font-size: 50px;
+        
+        text-decoration: underline;
+        font-family: "Century Gothic";
+     }
+     .namestyling1
+     {
+        text-align: left;
+        padding-top: 20px;
+        padding-left: 70px;
+        font-size: 40px;
+        
+        text-decoration: underline;
+        font-family: "Century Gothic";
+     }
+     .block2
+     {
+        width: 88.5%;
+        border-left-style: double;
+        border-right-style: double;
+        border-bottom-style: double;
+        padding-left:5%;
+        padding-right: 5%;
+      background-color: rgb(16, 218, 218);
+     }
+     .para1
+     {
+      padding-top:30px ;
+      font-size: 50px;
+      font-weight: bold;
+      font-family: "Century Gothic";
+     }
+
+     .para2
+     {
+        padding-top: 7px; 
+        text-align: justify;
+        font-family: "Century Gothic";
+     }
+
+     .para3
+     {
+        padding-top: 5px;
+        text-align: justify;
+        font-family: "Century Gothic";
+        font-size: 20px;
+        font-weight: bold;
+     }
+
+     .para4
+     {
+        padding-top: 5px;
+        text-align: justify;
+        font-family: "Century Gothic";
+        
+        
+     }
+
+     .liststyling
+     {
+        list-style: none;  text-align: justify;
+        font-family:"Century Gothic";
+     
+        
+     }
+
+     
+
+}
+
+@media only screen and (min-width: 769px) and (max-width: 1047px)
+{
+
+    .main
+     {
+        width:100%;
+     }
+     
+     .img1
+     {
+       padding-left:5%;
+       padding-right: 5%;
+      object-fit: contain;
+     }
+     .block1
+     {  
+        width: 99%;
+        display: flex;
+     }
+
+     .block11
+     {
+        
+        width:20%;
+        background-color:rgba(6, 205, 255, 0.548);
+        border-style: double;
+     }
+
+     .block12
+     {
+        width:80%;
+        background-color:rgba(6, 205, 255, 0.548);
+        border-bottom-style: double;
+        border-top-style: double;
+        border-right-style: double;
+        border-left-style: none;
+     }
+
+     .namestyling
+     {
+        text-align: left;
+        padding-top: 50px;
+        padding-left: 30px;
+        font-size: 50px;
+        
+        text-decoration: underline;
+        font-family: "Century Gothic";
+     }
+     .namestyling1
+     {
+        text-align: left;
+        padding-top: 20px;
+        padding-left: 70px;
+        font-size: 40px;
+        
+        text-decoration: underline;
+        font-family: "Century Gothic";
+     }
+     .block2
+     {
+        width: 88.5%;
+        border-left-style: double;
+        border-right-style: double;
+        border-bottom-style: double;
+        padding-left:5%;
+        padding-right: 5%;
+      background-color: rgb(16, 218, 218);
+     }
+     .para1
+     {
+      padding-top:30px ;
+      font-size: 50px;
+      font-weight: bold;
+      font-family: "Century Gothic";
+     }
+
+     .para2
+     {
+        padding-top: 7px; 
+        text-align: justify;
+        font-family: "Century Gothic";
+     }
+
+     .para3
+     {
+        padding-top: 5px;
+        text-align: justify;
+        font-family: "Century Gothic";
+        font-size: 20px;
+        font-weight: bold;
+     }
+
+     .para4
+     {
+        padding-top: 5px;
+        text-align: justify;
+        font-family: "Century Gothic";
+        
+        
+     }
+
+     .liststyling
+     {
+        list-style: none;  text-align: justify;
+        font-family:"Century Gothic";
+     
+        
+     }
+
+     
+
+}
+
+@media only screen and (min-width: 481px) and (max-width: 768px)
+{
+
+    .main
+     {
+        width:100%;
+     }
+     
+     .img1
+     {
+      object-fit: contain;
+     }
+     
+
+     .block11
+     {
+        width:99%;
+        text-align: center;
+        background-color:rgba(6, 205, 255, 0.548);
+        border-style: double;
+     }
+
+     .block12
+     {
+        width:99%;
+    
+        background-color:rgba(6, 205, 255, 0.548);
+        border-bottom-style: double;
+        border-top-style: none;
+        border-right-style: double;
+        border-left-style: double;
+     }
+
+     .namestyling
+     {
+        text-align: center;
+        padding-top: 50px;
+        padding-left: 30px;
+        font-size: 50px;
+        
+        text-decoration: underline;
+        font-family: "Century Gothic";
+     }
+     .namestyling1
+     {
+        text-align: center;
+        padding-top: 20px;
+        padding-left: 70px;
+        font-size: 40px;
+        
+        text-decoration: underline;
+        font-family: "Century Gothic";
+     }
+     .block2
+     {
+        width: 88.5%;
+        border-left-style: double;
+        border-right-style: double;
+        border-bottom-style: double;
+        padding-left:5%;
+        padding-right: 5%;
+      background-color: rgb(16, 218, 218);
+     }
+     .para1
+     {
+      padding-top:30px ;
+      font-size: 50px;
+      font-weight: bold;
+      font-family: "Century Gothic";
+     }
+
+     .para2
+     {
+        padding-top: 7px; 
+        text-align: justify;
+        font-family: "Century Gothic";
+     }
+
+     .para3
+     {
+        padding-top: 5px;
+        text-align: justify;
+        font-family: "Century Gothic";
+        font-size: 20px;
+        font-weight: bold;
+     }
+
+     .para4
+     {
+        padding-top: 5px;
+        text-align: justify;
+        font-family: "Century Gothic";
+        
+        
+     }
+
+     .liststyling
+     {
+        list-style: none;  text-align: justify;
+        font-family:"Century Gothic";
+     
+        
+     }
+
+     
+}
+
+
+@media only screen and (min-width: 320px) and (max-width: 480px)
+{
+
+   .main
+   {
+      width:100%;
+   }
+   
+   .img1
+   {
+    object-fit: contain;
+   }
+ 
+
+   .block11
+   {
+      width:99%;
+      text-align: center;
+      background-color:rgba(6, 205, 255, 0.548);
+      border-style: double;
+   }
+
+   .block12
+   {
+      width:99%;
+  
+      background-color:rgba(6, 205, 255, 0.548);
+      border-bottom-style: double;
+      border-top-style: none;
+      border-right-style: double;
+      border-left-style: double;
+   }
+
+   .namestyling
+   {
+      text-align: center;
+      padding-top: 50px;
+      padding-left: 30px;
+      font-size: 30px;
+      
+      text-decoration: underline;
+      font-family: "Century Gothic";
+   }
+   .namestyling1
+   {
+      text-align: center;
+      padding-top: 20px;
+      padding-left: 70px;
+      font-size: 20px;
+      
+      text-decoration: underline;
+      font-family: "Century Gothic";
+   }
+   .block2
+   {
+      width: 88.5%;
+      border-left-style: double;
+      border-right-style: double;
+      border-bottom-style: double;
+      padding-left:5%;
+      padding-right: 5%;
+    background-color: rgb(16, 218, 218);
+   }
+   .para1
+   {
+    padding-top:30px ;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: "Century Gothic";
+   }
+
+   .para2
+   {
+      padding-top: 7px; 
+      text-align: justify;
+      font-family: "Century Gothic";
+   }
+
+   .para3
+   {
+      padding-top: 5px;
+      text-align: justify;
+      font-family: "Century Gothic";
+      font-size: 20px;
+      font-weight: bold;
+   }
+
+   .para4
+   {
+      padding-top: 5px;
+      text-align: justify;
+      font-family: "Century Gothic";
+      
+      
+   }
+
+   .liststyling
+   {
+      list-style: none;  text-align: justify;
+      font-family:"Century Gothic";
+   
+      
+   }
+
+   
+}
+
+@media only screen and (min-width:0px) and (max-width: 319px)
+{
+
+   .main
+   {
+      width:100%;
+   }
+   
+   .img1
+   {
+    object-fit: contain;
+   }
+   
+
+   .block11
+   {
+      width:99%;
+      text-align: center;
+      background-color:rgba(6, 205, 255, 0.548);
+      border-style: double;
+   }
+
+   .block12
+   {
+      width:99%;
+  
+      background-color:rgba(6, 205, 255, 0.548);
+      border-bottom-style: double;
+      border-top-style: none;
+      border-right-style: double;
+      border-left-style: double;
+   }
+
+   .namestyling
+   {
+      text-align: center;
+      padding-top: 50px;
+      padding-left: 50px;
+      font-size: 20px;
+      
+      text-decoration: underline;
+      font-family: "Century Gothic";
+   }
+   .namestyling1
+   {
+      text-align: center;
+      padding-top: 20px;
+      padding-left: 70px;
+      font-size: 20px;
+      
+      text-decoration: underline;
+      font-family: "Century Gothic";
+   }
+
+   .block2
+   {
+      width: 88.5%;
+      border-left-style: double;
+      border-right-style: double;
+      border-bottom-style: double;
+      padding-left:5%;
+      padding-right: 5%;
+    background-color: rgb(16, 218, 218);
+   }
+   .para1
+   {
+    padding-top:30px ;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: "Century Gothic";
+   }
+
+   .para2
+   {
+      padding-top: 7px; 
+      text-align: justify;
+      font-family: "Century Gothic";
+   }
+
+   .para3
+   {
+      padding-top: 5px;
+      text-align: justify;
+      font-family: "Century Gothic";
+      font-size: 20px;
+      font-weight: bold;
+   }
+
+   .para4
+   {
+      padding-top: 5px;
+      text-align: justify;
+      font-family: "Century Gothic";
+      
+      
+   }
+
+   .liststyling
+   {
+      list-style: none;  text-align: justify;
+      font-family:"Century Gothic";
+   
+      
+   }
+
+   
+}
